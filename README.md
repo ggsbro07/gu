@@ -1,4 +1,3 @@
-# gu
 <!DOCTYPE html>
 <html>
 	<head>
