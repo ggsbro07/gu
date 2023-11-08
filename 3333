@@ -48,9 +48,9 @@
 				<fieldset>
 					<legend>Qual lanche você prefere? </legend>
 					<select>
-						<option> Clássico </option>
+						<option> Classico </option>
 						<option> X-Gu </option>
-						<option> Completão </option>
+						<option> Completao </option>
 					</select>
 				</fieldset>
 
@@ -68,7 +68,7 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td>Clássico</td>
+						<td>Classico</td>
 						<td>Ingredientes de um chesseburguer comum</td>
 					</tr>
 					<tr>
@@ -76,7 +76,7 @@
 						<td>Lanche a moda da casa</td>
 					</tr>
 					<tr>
-						<td>Completão</td>
+						<td>Completao</td>
 						<td>Tudo que você quer e mais um pouco</td>
 					</tr>
 				</tbody>
