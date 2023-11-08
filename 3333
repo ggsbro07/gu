@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Contato - Barbearia do Gu</title>
+		<title>Contato - Hamburguearia do Gu</title>
 
 		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="style.css">
@@ -10,7 +10,7 @@
 	<body>
 		<header>
 			<div class="caixa">
-				<h1><img src="logo.png" alt="Logo da Barbearia do Gu"></h1>
+				<h1><img src="logo.png" alt="Logo Hamburguearia do Gu"></h1>
 
 				<nav>
 					<ul>
@@ -46,11 +46,11 @@
 				</fieldset>
 
 				<fieldset>
-					<legend>Qual horário prefere ser atendido?</legend>
+					<legend>Qual lanche você prefere? </legend>
 					<select>
-						<option>Manhã</option>
-						<option>Tarde</option>
-						<option>Noite</option>
+						<option> Clássico </option>
+						<option> X-Gu </option>
+						<option> Completão </option>
 					</select>
 				</fieldset>
 
@@ -62,30 +62,30 @@
 			<table>
 				<thead>
 					<tr>
-						<th>Dia</th>
-						<th>Horário</th>
+						<th>Lanche</th>
+						<th>Tipo</th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
-						<td>Segunda</td>
-						<td>8h ~ 20h</td>
+						<td>Clássico</td>
+						<td>Ingredientes de um chesseburguer comum</td>
 					</tr>
 					<tr>
-						<td>Quarta</td>
-						<td>8h ~ 20h</td>
+						<td>X-Gu</td>
+						<td>Lanche a moda da casa</td>
 					</tr>
 					<tr>
-						<td>Sexta</td>
-						<td>8h ~ 20h</td>
+						<td>Completão</td>
+						<td>Tudo que você quer e mais um pouco</td>
 					</tr>
 				</tbody>
 			</table>
 		</main>
 
 		<footer>
-			<img src="logo-branco.png" alt="Logo da Barbearia do Gu">
-			<p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
+			<img src="logo-branco.png" alt="Logo da Hamburguearia do Gu">
+			<p class="copyright">&copy; CopyrightHamburguearia do Gu - 2019</p>
 		</footer>
 	</body>
 </html>
